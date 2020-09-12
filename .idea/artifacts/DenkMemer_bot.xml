@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="DenkMemer_bot">
+    <output-path>$PROJECT_DIR$/out/artifacts/DenkMemer_bot</output-path>
+    <root id="root" />
+  </artifact>
+</component>
